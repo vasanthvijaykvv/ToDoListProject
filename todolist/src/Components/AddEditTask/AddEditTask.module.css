@@ -1,0 +1,7 @@
+.DatePicker{
+    width: 100%;
+    letter-spacing: 0.1rem;
+    height: 2.5rem;
+    border: 1px solid rgb(223, 201, 223);
+    border-radius: 3px;
+}
